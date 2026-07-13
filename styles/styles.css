@@ -175,3 +175,12 @@ header {
         padding: 50px 20px;
     }
 }
+
+footer {
+    background: var(--indigo);
+    color: #7a9ab8;
+    text-align: center;
+    padding: 24px;
+    font-size: 0.82rem;
+    border-top: 3px solid var(--scarlet);
+}
